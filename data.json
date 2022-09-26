@@ -1,8 +1,19 @@
-[ 
-{    "id": 1,    "name": "Varshitha",    "username": "Varshitha",    "email": "varshitha@gmail.com"    }, 
-{    "id": 2,    "name": "Ravali",    "username": "Ravali",    "email": "ravali@gmail.com"  },
-{    "id": 3,    "name": "Prathyusha",    "username": "Prathyusha",    "email": "Prathyusha"  }, 
-{    "id": 4,    "name": "Sai",    "username": "Sai",    "email": "sai@gmail.com"  }, 
-{    "id": 5,    "name": "Mani",    "username": "Mani",    "email": "mani@gmail.com"  }
-]
+ [
+   {
+     "id": 1,
+     "name": "Varshitha",
+     "email": "varshi@gmail.com"
+   },
+   { 
+     "id": 2,
+     "name": "Ravali", 
+     "email": "ravali@gmail.com"
+   },
+   { 
+     "id": 3,
+     "name": "Prathyusha",
+     "email": "prathyusha@gmail.com"
+   }
+ ]
+ 
 
